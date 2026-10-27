@@ -261,14 +261,6 @@ Through this project, I gained practical experience in:
 
 ---
 
-# Author
-
-**Aditya Singh**
-
-Engineering & Computational Mechanics  
-National Institute of Technology Jamshedpur
-
-GitHub: https://github.com/ad-singh10
 
 ---
 
